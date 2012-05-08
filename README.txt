@@ -1,3 +1,3 @@
-This is a test repository for Software Carpentry.
+This is a test repository for Hardcore Sophistry.
 
-I want this to show up on github.
+Git your own hub!!
